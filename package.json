@@ -1,0 +1,19 @@
+{
+  "name": "ffctwitterbot",
+  "version": "0.0.1",
+  "description": "Simple Twitter bot to retweet any tweets with certain hashtags related to mindmaps and destiny lore",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unisys12/ffctwitterbot.git"
+  },
+  "author": "Phillip Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unisys12/ffctwitterbot/issues"
+  },
+  "homepage": "https://github.com/unisys12/ffctwitterbot#readme"
+}
